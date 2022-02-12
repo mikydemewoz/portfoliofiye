@@ -22,9 +22,9 @@ const Hero = () => {
         <div className='container' ref={container}></div>
       </div>
       <div className='max-w-md mb-auto space-y-3 -mt-8'>
-        <h1 className='text-5xl font-bold md:text-7xl'>ሰላም(Hello). I’m Michael</h1>
+        <h1 className='text-5xl font-bold md:text-7xl'>ሰላም(Hello). I’m FIAMMETTA</h1>
         <p className='tracking-wide leading-relaxed'>
-        Do you have a problem to be solved in your mind? Did you somehow start and stacked ? Can it be solved with some software technology? This is Michael Demewoz, a Software engineer with a problem solving ability and more than 2 years experience in software development. I have started my own startups which are going great. You can check them below and give comments. Let’s grab a coffee and discuss. We will solve the problem and be good friends.
+        Do you have a problem to be solved in your mind? Did you somehow start and stacked ? Can it be solved with some software technology? This is FIAMMETTA SALSAWI, a Software engineer with a problem solving ability and more than 2 years experience in software development. I have started my own startups which are going great. You can check them below and give comments. Let’s grab a coffee and discuss. We will solve the problem and be good friends.
         </p>
       </div>
     </section>

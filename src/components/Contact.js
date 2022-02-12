@@ -33,13 +33,13 @@ const Contact = () => {
       <div className='md:mx-6 flex flex-col flex-wrap md:flex-row justify-between'>
         <div className='md:w-6/12 md:px-0 p-5 my-5'>
           <div>
-            <p className='font-bold'>Michael Demewoz</p>
+            <p className='font-bold'>FIAMMETTA SALSAWI</p>
             <p className='font-thin'>Addis Ababa, Ethiopia</p>
             <a href='mailto: gdmichaeldemewoz@gmail.com' className='border-b-2 mt-3 inline-block border-gray-500'>
               gdmichaeldemewoz@gmail.com
             </a>
           </div>
-          <a className='border-b-2 mt-3 inline-block border-gray-500' href='https://drive.google.com/file/d/1q-W16B785NIQiQ2thOiF36H6oRnNn8B7/view?usp=sharing' target='_blank' rel='noreferrer'>
+          <a className='border-b-2 mt-3 inline-block border-gray-500' href='https://drive.google.com/file/d/1X2wSzwYOCF3dEzLQDW6xOD0SyRH9oQ1x/view?usp=sharing' target='_blank' rel='noreferrer'>
             Resume
           </a>
           <div className='flex flex-row flex-wrap mt-7'>

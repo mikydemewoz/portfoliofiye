@@ -15,7 +15,7 @@ const Header = () => {
           </a>
         </li>
         <li>
-          <a href='https://drive.google.com/file/d/1q-W16B785NIQiQ2thOiF36H6oRnNn8B7/view?usp=sharing' target='_blank' rel='noreferrer' className='py-1 px-5 hover:bg-gray focus:bg-gray rounded-lg'>
+          <a href='https://drive.google.com/file/d/1X2wSzwYOCF3dEzLQDW6xOD0SyRH9oQ1x/view?usp=sharing' target='_blank' rel='noreferrer' className='py-1 px-5 hover:bg-gray focus:bg-gray rounded-lg'>
             Resume
           </a>
         </li>
